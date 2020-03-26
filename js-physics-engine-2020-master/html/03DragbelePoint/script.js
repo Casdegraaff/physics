@@ -8,7 +8,7 @@ canvas.width = width;
 canvas.height = height;
 
 // begin hier met jouw code voor deze opdracht
-let myPoint = new Point(200,200,50,"pink",true)
+let myPoint = new Point(200,200,50,"Green",true)
 function animate(){
   context.clearRect(0,0,width,height);
   myPoint.draw(context)
