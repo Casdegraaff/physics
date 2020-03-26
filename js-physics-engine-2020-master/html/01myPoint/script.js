@@ -8,7 +8,8 @@ canvas.width = width;
 canvas.height = height;
 
 // begin hier met jouw code voor deze opdracht
-let colors = ["red", "pink", "blue", "green", "purple", "yellow", "orange"];
+
+let colors = ["Darkred", "Green", "Violet", "Black", "purple", "yellow", "Aqua", "White"];
 
 function getRandomNumber(max){
   return Math.floor(Math.random()*max);
